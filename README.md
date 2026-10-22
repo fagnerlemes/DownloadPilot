@@ -56,11 +56,11 @@ Para captura automática por tamanho, habilite a opção nas configurações do 
 
 No popup da extensão, **Pop-ups nas páginas** permite ocultar apenas os botões flutuantes. Detecção, envio pelo ícone e captura de downloads continuam funcionando.
 
-Para notícias do G1 ou páginas de vídeo do GZH, abra a página e use a extensão ou cole o link em **Novo download**. A versão 0.1.6 foi validada com os dois vídeos descritos nas notas do release; outros players e conteúdos podem ter limitações.
+A versão 0.1.6 aprimora a identificação de vídeos em diversos sites. Use a extensão na página ou cole o link em **Novo download**. A disponibilidade depende do player e do acesso ao conteúdo.
 
 ## Histórico
 
-- **0.1.6:** vídeos G1/GZH, limpeza coletiva do histórico, captura com somente Novo download em primeiro plano e abertura das unidades do carrossel.
+- **0.1.6:** identificação de vídeos aprimorada em diversos sites, limpeza coletiva do histórico, captura com somente Novo download em primeiro plano e abertura das unidades do carrossel.
 - **0.1.5 (distribuição local; incluída na 0.1.6):** atualização do link ao navegar entre Pins, links individuais do Facebook, correção de Abrir pasta e contraste do acrílico.
 - **0.1.4 (distribuição local; incluída na 0.1.6):** links individuais do Instagram/Pinterest, fotos e carrosséis, opção de ocultar os botões flutuantes.
 - **0.1.3:** transparência real do fundo externo com desfoque nativo do Windows, opção para desligar e fundo opaco de compatibilidade.
