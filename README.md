@@ -40,7 +40,7 @@ O histórico, as preferências e os arquivos baixados são preservados. Não é 
 
 Pausa, retomada, conexões simultâneas e captura dependem do servidor e do endereço. Downloads que exigem sessão/cookies podem continuar no navegador. Não há suporte a DRM; não existe garantia de captura em qualquer site.
 
-## Extensão para Edge e Chrome
+## Extensão para Edge, Chrome e Brave
 
 A extensão acompanha o programa. Ainda é instalada localmente, pelo modo de desenvolvedor; não está publicada nas lojas.
 
