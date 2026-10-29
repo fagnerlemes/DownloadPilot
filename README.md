@@ -1,6 +1,6 @@
 # DownloadPilot
 
-Gerenciador de downloads para Windows, com organização de arquivos e extensão para Microsoft Edge e Google Chrome. **By Fagner Lemes.**
+Gerenciador de downloads para Windows, com organização de arquivos e extensão para Microsoft Edge e Google Chrome. Consiga baixar vídeos do youtube, instagram, facebook, pinterest e outros sites com apenas um click. Oferece suporte a baixar imagens do instagram e mídias de áudios de qualquer site. **By Fagner Lemes.**
 
 **Primeira versão oficial completa: 1.0.0.**
 
